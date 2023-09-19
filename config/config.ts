@@ -6,7 +6,7 @@ export default {
     type: 'none',
     exclude: [],
   },
-  publicPath: '/react-hook3/',
+  publicPath: '/react-hooks3/',
   history: { type: 'hash' },
   extraBabelPlugins: [
     [
