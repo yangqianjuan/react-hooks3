@@ -41,6 +41,9 @@ importers:
       '@types/mockjs':
         specifier: ^1.0.7
         version: 1.0.7
+      '@types/node':
+        specifier: ^20.5.6
+        version: 20.6.2
       '@types/react-router':
         specifier: ^5.1.19
         version: 5.1.19
@@ -2600,7 +2603,7 @@ packages:
   /@types/sax@1.2.4:
     resolution: {integrity: sha512-pSAff4IAxJjfAXUG6tFkO7dsSbTmf8CtUpfhhZ5VhkRpC4628tJhh3+V6H1E+/Gs9piSzYKT5yzHO5M4GG9jkw==}
     dependencies:
-      '@types/node': 14.18.61
+      '@types/node': 20.6.2
     dev: true
 
   /@types/scheduler@0.16.3:
