@@ -5,5 +5,15 @@ import useLatest from './useLatest';
 import useDebounce from './useDebounce';
 import useMemorizedFn from './useMemorizedFn';
 import useUpdate from './useUpdate';
+import useRequest from './useRequest';
 
-export { useToggle, useBoolean, useTitle, useLatest, useDebounce, useMemorizedFn, useUpdate };
+export {
+  useToggle,
+  useBoolean,
+  useTitle,
+  useLatest,
+  useDebounce,
+  useMemorizedFn,
+  useUpdate,
+  useRequest,
+};
